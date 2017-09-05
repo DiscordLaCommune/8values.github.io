@@ -91,7 +91,7 @@ questions = [
     },
     {
         "question": "Inheritance is a legitimate form of wealth.",
-        "question_fr": "L'enrichissement par l'héritage est ligitime.",
+        "question_fr": "L'enrichissement par l'héritage est légitime.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -261,7 +261,7 @@ questions = [
     },
     {
         "question": "Governments should be accountable to the international community.",
-        "question_fr": "Les gouvernements devraient être responsable devant la communauté internationale.",
+        "question_fr": "Les gouvernements devraient être responsables devant la communauté internationale.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -331,7 +331,7 @@ questions = [
     },
     {
         "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-        "question_fr": "Le sacrifice de certaines libertés civile est necessaire pour nous protéger des actes de terrorisme.",
+        "question_fr": "Le sacrifice de certaines libertés civiles est nécessaire pour nous protéger des actes de terrorisme.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -371,7 +371,7 @@ questions = [
     },
     {
         "question": "No authority should be left unquestioned.",
-        "question_fr": "Toutes les authorités devraient être remises en question.",
+        "question_fr": "Toutes les autorités devraient être remises en question.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -421,7 +421,7 @@ questions = [
     },
     {
         "question": "Environmental regulations are essential.",
-        "question_fr": "Les régulations environementales sont essentielles.",
+        "question_fr": "Les règlementations environnementales sont essentielles.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -451,7 +451,7 @@ questions = [
     },
     {
         "question": "Traditions are of no value on their own.",
-        "question_fr": "Les traditions n'ont aucune valeurs en elles-mêmes.",
+        "question_fr": "Les traditions n'ont aucune valeur en elles-mêmes.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -491,7 +491,7 @@ questions = [
     },
     {
         "question": "It is important that we work as a united world to combat climate change.",
-        "question_fr": "Il est important que le monde travail de façon unie face au rechauffement climatique.",
+        "question_fr": "Il est important que le monde travaille de façon unie face au rechauffement climatique.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -501,7 +501,7 @@ questions = [
     },
     {
         "question": "Society was better many years ago than it is now.",
-        "question_fr": "La société était meilleur avant.",
+        "question_fr": "La société était meilleure avant.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -511,7 +511,7 @@ questions = [
     },
     {
         "question": "It is important that we maintain the traditions of our past.",
-        "question_fr": "Il est important de préserver nos traditions passées.",
+        "question_fr": "Il est important de préserver nos traditions.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -571,7 +571,7 @@ questions = [
     },
     {
         "question": "Sex outside marriage is immoral.",
-        "question_fr": "Le sexe en dehors du mariage est immorale.",
+        "question_fr": "Le sexe en dehors du mariage est immoral.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -581,7 +581,7 @@ questions = [
     },
     {
         "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
-        "question_fr": "Si l'on accepte des migrants, il est important qu'ils assimiles notre culture.",
+        "question_fr": "Si l'on accepte des migrants, il est important qu'ils assimilent notre culture.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -591,7 +591,7 @@ questions = [
     },
     {
         "question": "Abortion should be prohibited in most or all cases.",
-        "question_fr": "L'avortement devrait être interdite dans la plus-part des cas.",
+        "question_fr": "L'avortement devrait être interdit dans la plupart des cas.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -611,7 +611,7 @@ questions = [
     },
     {
         "question": "I support single-payer, universal healthcare.",
-        "question_fr": "Je supporte l'assurance maladie universelle.",
+        "question_fr": "Je soutiens l'idée d'une assurance maladie universelle publique.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -671,7 +671,7 @@ questions = [
     },
     {
         "question": "Governments should be as concerned about foreign citizens as they are about those within their borders.",
-        "question_fr": "Les gouvernements devraient être autant concerné par les citoyens des autres pays que par ceux vivant dans leurs frontières.",
+        "question_fr": "Les gouvernements devraient être autant concernés par les citoyens des autres pays que par ceux vivant dans leurs frontières.",
         "effect": {
             "econ": 10,
             "dipl": 10,
